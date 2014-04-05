@@ -65,6 +65,7 @@ After installing you will get a menu under "settings" that's called "wp testimon
 
 1. After installation on  Twenty twelve theme
 2. admin panel settings screenshot
+3. short code on page or post
 
 == Changelog ==
 
