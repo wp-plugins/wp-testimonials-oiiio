@@ -18,23 +18,23 @@ after installing this testimonials plugin you will get a menu under settings tha
 
 <a href="http://oiiio.us/testimonials/" target="_blank">Click here to see live Demo</a>
 
-<h2>process bar color :</h2>
+<h4>process bar color :</h4>
 
 This testimonials plugin allow You to change process bar color. You can use any color or HTML hex code.
 
-<h2>font color :</h2>
+<h4>font color :</h4>
 
 This testimonials plugin allow You to change font color. You can use any color or HTML hex code.
 
-<h2>name color :</h2>
+<h4>name color :</h4>
 
 This testimonials plugin allow You to change process bar color. You can use any color or HTML hex code.
 
-<h2>process bar speed :</h2>
+<h4>process bar speed :</h4>
 
 This testimonials plugin allow You to Select process bar speed here. Default value is 10000. If you increase value, the scrolling speed will be slower. If you decrease value, scrolling speed will be faster.
 
-<h2>ScrollBar scroll speed :</h2>
+<h4>ScrollBar scroll speed :</h4>
 
 This testimonials plugin allow You to Select scrollbar speed here. Default value is 1000. If you increase value, the scrolling speed will be slower. If you decrease value, scrolling speed will be faster.
 
