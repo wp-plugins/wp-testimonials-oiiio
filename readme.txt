@@ -11,7 +11,7 @@ crystal clean testimonial plugin for your wordpress website.
 
 == Description ==
 
-Testimonials is an easy-to-use plugin that allows to add testimonials to the sidebar as a widget or to embed them into a page or post using <pre><code>[testimonials]</code></pre> short code. "wp testimonials oiiio" plugins allow you a great admin panel from there you can control process bar color, font color, even speed !
+Testimonials is an easy-to-use plugin that allows to add testimonials to the sidebar as a widget or to embed them into a page or post using <code>[testimonials]</code> short code. "wp testimonials oiiio" plugins allow you a great admin panel from there you can control process bar color, font color, even speed !
 This testimonial plugin's have really cool feature.
 
 after installing this testimonials plugin you will get a menu under settings that's called "wp testimonial", from there you can customize this plugin as your own requirement.
@@ -19,7 +19,7 @@ after installing this testimonials plugin you will get a menu under settings tha
 <a href="http://oio-team.com/testimonials/" target="_blank">Click here to see Plugin live Demo</a>
 
 <h4>How to use :</h4>
-Add this <pre><code>[testimonials]</code></pre> code on your page or post or sidebar to show testimonials.
+Add this <pre>[testimonials]</pre> code on your page or post or sidebar to show testimonials.
 
 <h4>process bar color :</h4>
 
