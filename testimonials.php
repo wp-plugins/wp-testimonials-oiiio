@@ -116,9 +116,11 @@ function wpb_sample_metaboxes( $meta_boxes ) {
 add_filter( 'cmb_meta_boxes', 'wpb_sample_metaboxes'  );
 
 // testimonials loop
+?><?php
 function testimonial_loop(){ ?>
+<div class="test">
 	<div id="cbp-qtrotator" class="cbp-qtrotator">
-<?php query_posts('post_type=testimonial&post_status=publish&&paged='. get_query_var('page')); ?><?php if(have_posts()) : ?>
+<?php query_posts('post_type=testimonial&post_status=publish');?><?php if(have_posts()) : ?>
 <?php while (have_posts()) : the_post(); ?>
     <div class="cbp-qtcontent">
 		<?php
@@ -127,25 +129,26 @@ function testimonial_loop(){ ?>
         ?>
         <?php if($image) {?>
         <img src="<?php echo $image; ?>" />
-        <?php } ?>
+        <?php } ?>       
         <blockquote>
+          <footer>"
+			<?php
+				global $post;
+				$name = get_post_meta( $post->ID, '_cmb_name', true );
+				echo $name;
+            ?>"       
+          </footer> 
 			<p><?php
 				global $post;
 				$testimonialdes = get_post_meta( $post->ID, '_cmb_testimonial', true );
 				echo $testimonialdes;
             ?></p>
-          <footer>
-			<?php
-				global $post;
-				$name = get_post_meta( $post->ID, '_cmb_name', true );
-				echo $name;
-            ?>          
-          </footer>
         </blockquote>
     </div>
 <?php endwhile; ?>	
 <?php endif; ?>
 <?php wp_reset_query(); ?>
+</div>
 </div>
 <?php }
 // register short code

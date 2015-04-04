@@ -67,17 +67,24 @@
 }
 
 .cbp-qtrotator blockquote footer {
-	font-size: 1.2em;
+	text-align:center;
+	font-size: 1em;
 }
 
 .cbp-qtrotator blockquote footer:before {
-	content: '― ';
+	content: ;
 }
 
 .cbp-qtrotator .cbp-qtcontent img {
-	float: right;
-	margin-left: 3em;
+  background: none repeat scroll 0 0 #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  padding: 5px;
 }
+blockquote{padding:10px !important;}
+.cbp-qtrotator{overflow:hidden;}
 @media screen and (max-width: 30.6em) { 
 
 	.cbp-qtrotator {

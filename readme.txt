@@ -11,12 +11,12 @@ crystal clean testimonial plugin for your wordpress website.
 
 == Description ==
 
-Testimonials is an easy-to-use plugin that allows to add testimonials to the sidebar, as a widget or to embed them into a page or post using [testimonials] short code. "wp testimonials oiiio" plugins allow you a great admin panel from there you can control process bar color, font color, even speed !
+Testimonials is an easy-to-use plugin that allows to add testimonials to the sidebar as a widget or to embed them into a page or post using <code>[testimonials]</code> short code. "wp testimonials oiiio" plugins allow you a great admin panel from there you can control process bar color, font color, even speed !
 This testimonial plugin's have really cool feature.
 
 after installing this testimonials plugin you will get a menu under settings that's called "wp testimonial", from there you can customize this plugin as your own requirement.
 
-<a href="http://oiiio.us/testimonials/" target="_blank">Click here to see live</a>
+<a href="http://oio-team.com/testimonials/" target="_blank">Click here to see Plugin live Demo</a>
 
 <h4>process bar color :</h4>
 
@@ -66,11 +66,12 @@ After installing you will get a menu under "settings" that's called "wp testimon
 1. After installation on  Twenty twelve theme
 2. admin panel settings screenshot
 3. short code on page or post
+4. It's perfectly works on mobile device
 
 == Changelog ==
 
 = 1.0 = 
-= 2.0 = 
+
 == Upgrade Notice ==
 
 = 1.0 =

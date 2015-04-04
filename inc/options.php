@@ -15,7 +15,7 @@
 						<h3><span>wp testimonials settings</span></h3>
 						<div class="inside">
                         	<img src="<?php echo plugins_url( 'wp-testimonials-oiiio/inc/images/pro-version.PNG') ?>" />
-                            <p><a href="http://oiiio.us/testimonials/" class="button-primary" target="_blank">Click Here Buy Pro Version</a></p>
+                            <p><a href="http://www.oio-team.com/testimonials/" class="button-primary" target="_blank">Click Here Buy Pro Version</a></p>
 						</div>
 					</div>
 				</div>
@@ -33,9 +33,9 @@
 					<div class="postbox">
 						<h3><span>Author</span></h3>
 						<div class="inside">
-							<p><a href="http://oiiio.us/testimonials/" target="_blank">view plugin documentations</a></p>
-                            <p><a href="http://oiiio.us/plugins/" target="_blank">view author's all plugins</a></p>
-                            <p><a href="http://oiiio.us/themes/" target="_blank">view author's all themes</a></p>
+							<p><a href="http://www.oio-team.com/testimonials/" target="_blank">view plugin documentations</a></p>
+                            <p><a href="http://www.oio-team.com/plugins/" target="_blank">view author's all plugins</a></p>
+                            <p><a href="http://www.oio-team.com/themes/" target="_blank">view author's all themes</a></p>
 						</div>
 					</div>
 				</div>                
