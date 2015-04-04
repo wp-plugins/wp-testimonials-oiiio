@@ -1,4 +1,4 @@
-=== testimonials ===
+=== Testimonials ===
 Contributors: Mahamud Hasan Rashel
 Tags: client testimonial, client testimonials, testimonial, testimonials, testimonial plugin, testimonials plugin, quote, quotes, clients quote, clients quotes
 Requires at least: 3.0.1
