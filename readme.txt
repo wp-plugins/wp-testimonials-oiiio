@@ -18,6 +18,9 @@ after installing this testimonials plugin you will get a menu under settings tha
 
 <a href="http://oio-team.com/testimonials/" target="_blank">Click here to see Plugin live Demo</a>
 
+<h4>How to use :</h4>
+Add this <pre><code>[testimonials]</code></pre> code on your page or post or sidebar to show testimonials.
+
 <h4>process bar color :</h4>
 
 This testimonials plugin allow You to change process bar color. You can use any color or HTML hex code.
