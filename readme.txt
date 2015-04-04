@@ -1,9 +1,9 @@
 === wp testimonials oiiio ===
 Contributors: Mahamud Hasan Rashel
-Tags: testimonial, testimonials, wp testimonials, oiiio, API, learning, education
+Tags: client testimonial, client testimonials, testimonial, testimonials, testimonial plugin, testimonials plugin, quote, quotes, clients quote, clients quotes
 Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 1.0
+Tested up to: 4.1.1
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ This testimonial plugin's have really cool feature.
 
 after installing this testimonials plugin you will get a menu under settings that's called "wp testimonial", from there you can customize this plugin as your own requirement.
 
-<a href="http://oiiio.us/testimonials/" target="_blank">Click here to see live Demo</a>
+<a href="http://oiiio.us/testimonials/" target="_blank">Click here to see live</a>
 
 <h4>process bar color :</h4>
 
@@ -70,7 +70,7 @@ After installing you will get a menu under "settings" that's called "wp testimon
 == Changelog ==
 
 = 1.0 = 
-
+= 2.0 = 
 == Upgrade Notice ==
 
 = 1.0 =
